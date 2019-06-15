@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="slf4j-log4j12-1.7.18-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
